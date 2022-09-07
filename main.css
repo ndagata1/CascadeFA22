@@ -17,3 +17,7 @@ img {
   border: 0;
 }
 /* end reset browser styles */
+body {
+  color: #bac;
+  background: #cef;
+}
